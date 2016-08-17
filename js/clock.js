@@ -8,4 +8,5 @@ Clock.prototype.clock = function(test) {
   console.write(test);
 };
 
+
 exports.clockModule = Clock;
